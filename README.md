@@ -14,6 +14,24 @@ Repository ini merupakan repository penugasan tes centrinova yang berisikan webs
 - axios (0.21.1)
 - dayjs (1.10.6)
 
+## ToDo
+- [x] Init project
+- [x] Design icon dan mencari image asset
+- [x] Integrasi husky dan commit lint
+- [x] Integrasi eslint dan prettier
+- [x] Install vuetify
+- [x] Konfigurasi web manifest dan PWA
+- [x] Membuat kerangka halaman awal
+- [x] Membuat kerangka login
+- [x] Membuat kerangka detail artikel
+- [x] Membuat API service (auth, artikel, dan komentar)
+- [ ] Fitur update profil
+- [ ] Lazy loading artikel halaman awal
+- [ ] Update artikel
+- [ ] Delete artikel
+- [ ] Delete comment
+- [ ] Pagination comment
+
 ## Instalasi
 Install dependency projek
 ```
