@@ -1,29 +1,26 @@
-# tes-centrinova
+# Blogu (Tes Centrinova)
+<p align="center">
+  <img width="128" src="https://github.com/bacharuddinadieb/tes-centrinova/blob/master/src/assets/blogu.png?raw=true">
+</p>
+Repository ini merupakan repository penugasan tes centrinova yang berisikan website front end artikel bernama Blogu
 
-## Project setup
+## Link
+[https://centrinova-blogu.vercel.app/](https://centrinova-blogu.vercel.app/)
+
+## Dependency
+- vue (2.6.11)
+- vue-router (3.2.0)
+- vuetify (2.4.0)
+- axios (0.21.1)
+- dayjs (1.10.6)
+
+## Instalasi
+Install dependency projek
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Jalankan server Front End
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
