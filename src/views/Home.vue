@@ -98,17 +98,14 @@
 </template>
 
 <script>
-// import HelloWorld from '@/components/HelloWorld.vue';
 import CardPost from '@/components/CardPost.vue';
 import AppBar from '../components/AppBar.vue';
 import CardPostSkeleton from '../components/skeleton/CardPost.vue';
 import ArtikelService from '../services/artikel.service';
-import AuthService from '../services/auth.service';
 
 export default {
   name: 'Home',
   components: {
-    // HelloWorld,
     CardPost,
     AppBar,
     CardPostSkeleton,
